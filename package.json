@@ -1,0 +1,19 @@
+{
+  "name": "coderdojo-love2d-pong",
+  "version": "1.0.0",
+  "description": "Step by step manual to build Pong with Love2D and Lua. Written for CoderDojo Rotterdam (SF)",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/core"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "coderdojorotterdam-workshop-core": "^1.0.0"
+  },
+  "coderdojo_workshop_options": {
+    "file_in": "love2d_pong.md",
+    "file_out": "love2d_pong.pdf"
+  }
+}
